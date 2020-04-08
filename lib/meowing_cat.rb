@@ -1,1 +1,3 @@
-class catch
+class Cat
+  
+end
